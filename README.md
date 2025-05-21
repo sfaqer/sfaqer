@@ -1,5 +1,30 @@
 [![An image of @sfaqer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sfaqer)](https://holopin.io/@sfaqer)
 
+<a href="https://github.com/sfaqer">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sfaqer&locale=ru&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sfaqer&locale=ru&include_all_commits=true&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sfaqer&locale=ru&include_all_commits=true&show_icons=true&hide_border=true" />
+  </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sfaqer&layout=compact&langs_count=8&card_width=360&locale=ru&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sfaqer&layout=compact&langs_count=8&card_width=320&locale=ru&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfaqer&layout=compact&langs_count=8&card_width=360&locale=ru&hide_border=true" />
+  </picture>
+</a>
+
 <!--
 **sfaqer/sfaqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
