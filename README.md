@@ -14,14 +14,14 @@
   </picture>
   <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 width=360 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true" />
+  <img height=200 width=360 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sfaqer&role=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&layout=compact&langs_count=8&locale=en&hide_border=true" />
   </picture>
 </a>
 
